@@ -5,11 +5,11 @@ https://mushrooms-classify.onrender.com/
 
 ## ⏳ Dataset
 - Download the dataset for custom training
-- https://drive.google.com/drive/folders/1CFxvuigTzbnRXUojFeCRozxjUbYiQ8RM?usp=sharing 
+- https://www.kaggle.com/datasets/uciml/mushroom-classification
 
 ## 🏽‍ Download Mushroom Classification Model
 Drive Link(Collab)
-- https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing
+- https://colab.research.google.com/drive/1Jdps9yCMB_iw9ViB3TiM2c_kA8yQqngF?usp=sharing
 
 #Requirements
 -They are all shown in requirements.txt file in code
